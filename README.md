@@ -1,4 +1,8 @@
-### Hi, I'm Veronica ![Furret Walk](https://github.com/vwondo/gif.gif)
+### Hi, I'm Veronica <img src='./gif.gif' width='30'>
+
+- 🎓 I'm a Computer Science (Honours) graduate from UNSW (2019-2022).
+- ☑️ My thesis project was a automated Progression Checker for UNSW students.
+- ✨ You can view my portfolio website [here](https://vwondo.github.io/).
 
 <!--
 **vwondo/vwondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
